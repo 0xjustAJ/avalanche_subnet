@@ -47,12 +47,13 @@ This project implements an ERC20 token named "Solidity by Example" with symbol "
 ### Help
 
 Common issues might include network connection problems or incorrect configurations. Ensure the Ethereum network settings are correctly configured in hardhat.config.js or truffle-config.js.
+
 `     npx hardhat help
 `
 
 ### Authors
 
-Contributors names and contact info:
+Contributor name and contact info:
 
 - Ajayi Damola
 - X (@justtA7J)
